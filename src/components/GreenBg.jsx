@@ -1,4 +1,4 @@
-import feature2 from '../../assets/images/feature-2.png'
+import feature2 from '../assets/images/feature-2.png'
 
 export const GreenBg = () => {
   return (

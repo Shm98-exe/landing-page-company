@@ -1,5 +1,5 @@
-import { GreenBg } from "./components/feature/GreenBg"
-import { SkewBg } from "./components/feature/SkewBg"
+import { GreenBg } from "./components/GreenBg"
+import { SkewBg } from "./components/SkewBg"
 import { HeaderPage } from "./components/HeaderPage"
 import { ThreeBlcok } from "./components/ThreeBlcok"
 import { PriceTable } from "./components/PriceTable"

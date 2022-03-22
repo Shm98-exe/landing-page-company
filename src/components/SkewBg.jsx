@@ -1,4 +1,5 @@
-import feature1 from '../../assets/images/feature-1.png'
+import feature1 from '../assets/images/feature-1.png'
+
 export const SkewBg = () => {
     return (
         // <!-- feature (skew background) -->
